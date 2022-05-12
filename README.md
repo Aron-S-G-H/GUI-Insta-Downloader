@@ -20,3 +20,8 @@
 - pip install instaloader
 - pip install tk
 - python3 Insta_Downloader.py
+
+## Result
+<p align="center">
+  <img src="https://github.com/Arone-S-G-h/GUI-Insta-Downloader/blob/main/Result/Instagram%20Downloader.png">
+</p>
