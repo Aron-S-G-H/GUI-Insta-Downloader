@@ -1,0 +1,22 @@
+# GUI-Insta-Downloader
+
+**_Graphical User Interface Instagram Downloader_**
+
+## Requirements
+- Tkinter Library
+- Instaloader Module
+- Pillow Library
+
+## Features
+- Download Profile Picture 
+- Download Image Using the URL
+- Download Video Using the URL
+- Ability to Specify where to Save Images and Videos
+- No need to Log in to your Account
+
+## How to Install 
+- git clone https://github.com/Arone-S-G-H/GUI-Insta-Downloader
+- pip install pillow
+- pip install instaloader
+- pip install tk
+- python3 Insta_Downloader.py
