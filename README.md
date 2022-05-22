@@ -9,8 +9,8 @@
 
 ## Features
 - Download Profile Picture 
-- Download Image Using the URL
-- Download Video Using the URL
+- Download Image Using URL
+- Download Video Using URL
 - Ability to Specify where to Save Images and Videos
 - No need to Log in to your Account
 
