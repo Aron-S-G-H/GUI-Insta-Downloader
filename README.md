@@ -3,9 +3,12 @@
 **_Graphical User Interface Instagram Downloader_**
 
 ## Requirements
-- Tkinter Library
-- Instaloader Module
-- Pillow Library
+- <a href='https://docs.python.org/3/library/tkinter.html'>Tkinter Library</a>
+- <a href='https://instaloader.github.io/'>Instaloader Module</a>
+- <a href='https://pillow.readthedocs.io/'>Pillow Library</a>
+- <a href='https://docs.python-requests.org/'>Request Module</a>
+- <a href='https://docs.python.org/3/library/os.html'>Os Module</a>
+- <a href='https://docs.python.org/3/library/threading.html'>Threading Module</a>
 
 ## Features
 - Download Profile Picture 
