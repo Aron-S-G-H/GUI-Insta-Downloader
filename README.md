@@ -12,17 +12,16 @@
 
 ## Features
 - Download Profile Picture 
-- Download Image Using URL
-- Download Video Using URL
+- Download Image Using Link
 - Ability to Specify where to Save Images and Videos
-- No need to Log in to your Account
+- Simple and beautiful User interface
 
 ## How to Install 
 - git clone https://github.com/Arone-S-G-H/GUI-Insta-Downloader
 - pip install pillow
 - pip install instaloader
 - pip install tk
-- python3 Insta_Downloader.py
+- python3 main.py
 
 ## Result
 <p align="center">
