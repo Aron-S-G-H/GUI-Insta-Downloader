@@ -12,7 +12,7 @@
 
 ## Features
 - Download Profile Picture 
-- Download Image Using Link
+- Download Posts (just images) Using Link
 - Ability to Specify where to Save Images and Videos
 - Simple and beautiful User interface
 
